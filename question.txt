@@ -1,0 +1,10 @@
+1|Name something that might be cancelled because of cold weather|A Parade -> 5|Picnic/Barbecue -> 11|beach/Swimming -> 10|School -> 42|Concert -> 3|Sporting Event -> 22
+2|Name something that people do in their sleep|Dream -> 13|Snore -> 61|Drool -> 3|Talk -> 17|Grind Teeth -> 3|Toss and Turn -> 2
+3|Name something tha people put on during the course of a day|A Smile -> 5|Glasses -> 4|Clothes/Shoes -> 50|Coat -> 7|Makeup -> 10|Weight -> 3
+4|Name A reason you might switch doctors|Bedside Manner -> 30|Wait Time -> 7|Moved Location -> 18|Second Opinion -> 5|Incompetance -> 17
+5|Name a sign that people disobey|Stop -> 60|Speed Limit -> 4|No Littering -> 5|Yield -> 9|Do not enter -> 8|No Smoking -> 4
+6|Name a reason people take out a loan|Buy a house -> 57|Consolidate debt -> 4|Buy a cat -> 24|Start a business -> 3| College -> 8| Get married -> 2
+7|Name a reason one grocery stroe might say they are better than another|Better Prices -> 60|Better Selection -> 5|Better Service -> 18|More Coupons -> 4|Fresher produce -> 9
+8|Name something that seems to make babies very happy|Attention -> 23|Smiling Faces -> 4|Milk -> 34|Their Moms -> 10| Lots of Loving -> 7|Toys -> 5
+9|Name something that SOME people eat raw|meat -> 2|vegetables -> 48|seafood -> 49|Drinks -> 5
+10|If your shirt accidentally caught on fire, what would be the best thing to do|Drop and Roll -> 69|Jump In Pool -> 3|Rip it off -> 17|Jump in Shower -> 2|Splash water on it -> 8
